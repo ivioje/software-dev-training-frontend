@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Egypt",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "description": "Egypt is a country in North Africa known for its ancient history and iconic landmarks like the Pyramids and the Sphinx."
+    },
+    {
+        "id": 2,
+        "name": "South Africa",
+        "imageUrl": "https://geo5.net/imagens/Bandeira-da-Africa-do-Sul.png",
+        "description": "South Africa is located at the southern tip of the African continent and is known for its diverse culture, wildlife, and stunning landscapes."
+    },
+    {
+        "id": 3,
+        "name": "Nigeria",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/2000px-Flag_of_Nigeria.svg.png",
+        "description": "Nigeria is a West African country with a rich cultural heritage, vibrant cities, and a significant role in the African economy."
+    },
+    {
+        "id": 4,
+        "name": "Kenya",
+        "imageUrl": "https://cdn.webshopapp.com/shops/94414/files/52385976/flag-of-kenya.jpg",
+        "description": "Kenya is known for its wildlife, national parks like Maasai Mara, and its long-distance runners who have excelled in international competitions."
+    },
+    {
+        "id": 5,
+        "name": "Morocco",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/255px-Flag_of_Morocco.svg.png",
+        "description": "Morocco is located in North Africa and is known for its rich history, diverse culture, and beautiful cities like Marrakech and Casablanca."
+    },
+    {
+        "id": 6,
+        "name": "Ghana",
+        "imageUrl": "https://cdn.britannica.com/54/5054-004-A09ABCDF/Flag-Ghana.jpg",
+        "description": "Ghana is a West African country known for its history as a major trading hub, vibrant festivals, and friendly people."
+    },
+    {
+        "id": 7,
+        "name": "Tanzania",
+        "imageUrl": "https://cdn.britannica.com/20/20-004-EB20A026/Flag-Tanzania.jpg",
+        "description": "Tanzania is home to the majestic Mount Kilimanjaro and the stunning Serengeti National Park, making it a popular destination for safaris and nature enthusiasts."
+    },
+    {
+        "id": 8,
+        "name": "Algeria",
+        "imageUrl": "https://example.com/algeria.jpg",
+        "description": "Algeria is the largest country in Africa, known for its diverse landscapes, ancient ruins, and rich cultural heritage."
+    },
+    {
+        "id": 9,
+        "name": "Ethiopia",
+        "imageUrl": "https://example.com/ethiopia.jpg",
+        "description": "Ethiopia is one of the oldest countries in the world, with a unique culture, historical sites, and the famous rock-hewn churches of Lalibela."
+    },
+    {
+        "id": 10,
+        "name": "Uganda",
+        "imageUrl": "https://example.com/uganda.jpg",
+        "description": "Uganda is known for its diverse wildlife, including mountain gorillas, as well as its lush landscapes and friendly locals."
+    },
+    {
+        "id": 11,
+        "name": "Senegal",
+        "imageUrl": "https://example.com/senegal.jpg",
+        "description": "Senegal is located in West Africa and is known for its rich musical heritage, vibrant markets, and historic sites like Gorée Island."
+    },
+    {
+        "id": 12,
+        "name": "Ivory Coast",
+        "imageUrl": "https://example.com/ivory_coast.jpg",
+        "description": "Ivory Coast, also known as Côte d'Ivoire, is a West African country with a diverse culture, beautiful beaches, and a growing economy."
+    },
+    {
+        "id": 13,
+        "name": "Cameroon",
+        "imageUrl": "https://example.com/cameroon.jpg",
+        "description": "Cameroon is known for its geographical and cultural diversity, with rainforests, mountains, and savannas, as well as a mix of ethnic groups."
+    },
+    {
+        "id": 14,
+        "name": "Zimbabwe",
+        "imageUrl": "https://example.com/zimbabwe.jpg",
+        "description": "Zimbabwe is home to the impressive Victoria Falls, diverse wildlife in Hwange National Park, and a rich history of ancient civilizations."
+    },
+    {
+        "id": 15,
+        "name": "Mali",
+        "imageUrl": "https://example.com/mali.jpg",
+        "description": "Mali is known for its historic city of Timbuktu, ancient trading routes, and traditional music culture."
+    },
+    {
+        "id": 16,
+        "name": "Mozambique",
+        "imageUrl": "https://example.com/mozambique.jpg",
+        "description": "Mozambique is located along the Indian Ocean and offers stunning beaches, marine life, and a mix of cultures."
+    },
+    {
+        "id": 17,
+        "name": "Angola",
+        "imageUrl": "https://example.com/angola.jpg",
+        "description": "Angola is known for its diverse landscapes, from the coastal capital of Luanda to the wilds of the Okavango Delta."
+    },
+    {
+        "id": 18,
+        "name": "Madagascar",
+        "imageUrl": "https://example.com/madagascar.jpg",
+        "description": "Madagascar is an island nation with unique wildlife, including lemurs, and a blend of African, Asian, and European cultural influences."
+    },
+    {
+        "id": 19,
+        "name": "Sudan",
+        "imageUrl": "https://example.com/sudan.jpg",
+        "description": "Sudan is known for its ancient history, including the Nubian pyramids, as well as its diverse ethnic groups and cultures."
+    },
+    {
+        "id": 20,
+        "name": "Niger",
+        "imageUrl": "https://example.com/niger.jpg",
+        "description": "Niger is located in West Africa and is known for its unique landscapes, including the Sahara Desert, and its nomadic Tuareg population."
+    }
+]

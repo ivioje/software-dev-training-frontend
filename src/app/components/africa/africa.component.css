@@ -1,0 +1,14 @@
+.hotel-img img {
+    width: 100%;
+    max-height: 280px;
+}
+
+.container {
+padding: 4rem 0rem;
+}
+#subscribe {
+    background-image: url('https://images.unsplash.com/photo-1523805009345-7448845a9e53?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=872&q=80');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
